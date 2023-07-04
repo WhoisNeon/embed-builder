@@ -1,5 +1,7 @@
-[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
+
 # An embed visualizer
+
+[<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://open.autocode.com/)
 
 Visualize embed or message content from JSON input or provided GUI editor.
 
